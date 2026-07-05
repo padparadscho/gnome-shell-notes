@@ -1,0 +1,10 @@
+{
+  "name": "Notes",
+  "description": "GNOME Shell extension for quick creation and access to recent notes from GNOME Text Editor.",
+  "version-name": "0.1.0",
+  "uuid": "notes@padparadscho.com",
+  "shell-version": ["50"],
+  "url": "https://github.com/padparadscho/gnome-shell-notes",
+  "settings-schema": "org.gnome.shell.extensions.notes",
+  "gettext-domain": "notes"
+}

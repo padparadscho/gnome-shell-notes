@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+    <schema path="/org/gnome/shell/extensions/notes/"
+        id="org.gnome.shell.extensions.notes">
+    <key type="s" name="set-notes-folder">
+        <default>""</default>
+        <summary>Set Notes Folder</summary>
+        <description>Folder where new notes are created</description>
+    </key>
+    <key type="i" name="set-notes-limit">
+        <default>10</default>
+        <summary>Set Notes Limit</summary>
+        <description>Number of recent notes to show</description>
+    </key>
+    <key type="i" name="set-panel-position">
+        <default>1</default>
+        <summary>Set Panel Position</summary>
+        <description>Position of the indicator in the panel</description>
+    </key>
+    </schema>
+</schemalist>
